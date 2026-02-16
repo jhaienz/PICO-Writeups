@@ -33,7 +33,7 @@ I first netcat to the server and it give me a hash
 
 ### Step 2:
 
-i succesfully cracked it at the crackstation.net, and typed the password at the terminal, and it reveals another hash, i did repeat this serveral times until i got the flag
+I successfully cracked it at crackstation.net and typed the password at the terminal, and it revealed another hash. I did repeat this several times until I got the flag.
 ![Alt text](2.png)
 
 ### Step 3:
