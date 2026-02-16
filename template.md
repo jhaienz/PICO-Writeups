@@ -1,6 +1,6 @@
 # 🚩 PicoCTF Writeup — [Challenge Name]
 
-> **Author:** [Your Name / Handle]
+> **Author:** [jhaienz]
 > **Category:** [e.g. Web, Forensics, Reverse Engineering, Crypto, Binary Exploitation, General Skills]
 > **Difficulty:** [Easy / Medium / Hard]
 > **Points:** [e.g. 100]
@@ -91,4 +91,4 @@ What did you learn from this challenge? This helps you (and others) remember the
 
 ---
 
-_Writeup by [Your Handle] — [Date]_
+_Writeup by [jhaienz] — [Date]_
