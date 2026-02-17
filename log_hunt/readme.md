@@ -31,7 +31,7 @@ Since I was given logs, it would be harder to deeply locate all of the scattered
 
 ## 🧩 Solution
 
-### Step 1: [Title]
+### Step 1:
 
 The first thing I did was take a peek at the log file, and I got the first part of the flag.
 ![1](1.png)

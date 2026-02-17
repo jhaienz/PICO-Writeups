@@ -40,7 +40,7 @@ First, I looked at the page source of the web and noticed a comment that should 
 ![1](2.png)
 I copied the comment and then pasted it into the Caesar cipher for decoding the message, and I got the readable message.
 
-### Step 3: [Title]
+### Step 3:
 
 ![1](3.png)
 Now I followed what the message is for Jack, so I captured the request using Burp Suite and added the message to the header to bypass the login page and get the password.

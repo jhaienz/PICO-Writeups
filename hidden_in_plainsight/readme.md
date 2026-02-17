@@ -31,7 +31,7 @@ noticed it was an image file, so i knew the flag is embeded into the image file.
 
 ## 🧩 Solution
 
-### Step 1: [Title]
+### Step 1:
 
 After downloading the image, I used exiftool to view the metadata of the image. After reading the data, I noticed the "comment"; it has a random string.
 ![1](1.png)
